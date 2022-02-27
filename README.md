@@ -1,2 +1,2 @@
-# habr_dark
+# Habr Dark
 Simple habr dark theme
