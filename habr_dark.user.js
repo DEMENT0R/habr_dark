@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Habr dark
-// @version      0.3
+// @version      0.4
 // @description  Habr dark theme
 // @author       DEMENT0R
 // @downloadURL  https://github.com/DEMENT0R/habr_dark/raw/master/habr_dark.user.js
 // @updateURL    https://github.com/DEMENT0R/habr_dark/raw/master/habr_dark.user.js
+// @homepageURL  https://github.com/DEMENT0R/habr_dark
+// @supportURL   https://github.com/DEMENT0R/habr_dark/issues
 // @match        https://habr.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=habr.com
 // @grant    GM_addStyle
